@@ -13,5 +13,14 @@ database, or a model that actually answers a business question.
 
 Currently looking for a data/technical internship or a graduate role.
 
-📫 Reach me: tommckenna48@outlook.com https://www.linkedin.com/in/tom-mckenna-8502323b8/ 
-📄 My CV: https://drive.google.com/file/d/1obkt27BTRLdOr4LVvr1qTfUsczLErdWv/view?usp=sharing
+<p align="left">
+  <a href="mailto:tommckenna48@outlook.com">
+    <img src="https://img.shields.io/badge/Email-tommckenna48%40outlook.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/tom-mckenna-8502323b8/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://drive.google.com/file/d/1obkt27BTRLdOr4LVvr1qTfUsczLErdWv/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume-View-4285F4?style=flat-square&logo=googledrive&logoColor=white" />
+  </a>
+</p>
