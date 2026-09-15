@@ -1,4 +1,4 @@
-### Hi, I'm Tom 👋
+### Hi, I'm Tom
 
 CS student at Swinburne University of Technology, majoring in Data Science 
 with a minor in Accounting. I like taking messy, real-world data and turning 
