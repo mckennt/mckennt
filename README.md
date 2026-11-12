@@ -3,13 +3,13 @@
 CS student at Swinburne University of Technology, majoring in Data Science 
 with a minor in Accounting. I like taking messy, real-world data and turning 
 it into something usable — whether that's a cleaned dataset, a working 
-database, or a model that actually answers a business question.
+database, or a model that actually answers a question.
 
 **What I've been building:**
-- 🗄️ Relational database design (SQL/MySQL)
-- 🤖 ML workflows and evaluation in KNIME (Naïve Bayes, Random Forest)
-- 📊 Data visualisation with D3.js
-- 🎮 OOP design in C# and low-level programming in assembly, for range
+- Relational database design (SQL/MySQL)
+- ML workflows and evaluation in KNIME (Naïve Bayes, Random Forest)
+- Data visualisation with D3.js
+- OOP design in C# and low-level programming in assembly
 
 Currently looking for a data/technical internship or a graduate role.
 <p align="left">
